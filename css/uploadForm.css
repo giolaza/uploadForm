@@ -1,0 +1,151 @@
+/*
+
+File uploader by GL
+
+*/
+/* Main styles */
+.file-browser{
+	border: 1px solid #19B5FE;
+	background: #eef4f7;
+	border-radius: 7px;
+	width: 100%;
+	cursor: pointer;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.file-browser .file_name{
+	white-space: nowrap;
+	display: inline-block;
+	color: #19B5FE;
+}
+.file-browser .files_text,.file-browser .files_count{
+	font-size: 8pt;
+}
+.file-browser .file-upload{
+	margin: 0px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	background-color: #19B5FE;
+	border-color: #19B5FE;
+	color: #FFF;
+	display: inline-block;
+}
+
+
+/* Additional colors */
+
+
+.file-browser.red{
+	border: 1px solid #ff0000;
+	background: #fcf7f6;
+}
+.file-browser.red .file-upload{
+	background-color: #ff0000;
+	border-color: #ff0000;
+	color: #FFF;
+}
+.file-browser.red .file_name{
+	color: #ff0000;
+}
+
+
+
+.file-browser.green{
+	border: 1px solid #1ABC9C;
+	background: #f1f9f7;
+}
+.file-browser.green .file-upload{
+	background-color: #1ABC9C;
+	border-color: #1ABC9C;
+	color: #FFF;
+}
+.file-browser.green .file_name{
+	color: #1ABC9C;
+}
+
+
+.file-browser.blue{
+	border: 1px solid #1934fe;
+	background: #eef1f7;
+}
+.file-browser.blue .file-upload{
+	background-color: #1934fe;
+	border-color: #1934fe;
+	color: #FFF;
+}
+.file-browser.blue .file_name{
+	color: #1934fe;
+}
+
+
+.file-browser.yellow{
+	border: 1px solid #ebfe19;
+	background: #fff;
+}
+.file-browser.yellow .file-upload{
+	background-color: #ebfe19;
+	border-color: #ebfe19;
+	color: #cfaf00;
+}
+.file-browser.yellow .file_name{
+	color: #cfaf00;
+}
+
+
+.file-browser.orange{
+	border: 1px solid #ff3c1f;
+	background: #f8efed;
+}
+.file-browser.orange .file-upload{
+	background-color: #ff3c1f;
+	border-color: #ff3c1f;
+	color: #fff;
+}
+.file-browser.orange .file_name{
+	color: #ff3c1f;
+}
+
+
+
+.file-browser.purple{
+	border: 1px solid #800080;
+	background: #feecfe;
+}
+.file-browser.purple .file-upload{
+	background-color: #800080;
+	border-color: #800080;
+	color: #fff;
+}
+.file-browser.purple .file_name{
+	color: #800080;
+}
+
+
+
+.file-browser.lime{
+	border: 1px solid #00FF00;
+	background: #e6fee6;
+}
+.file-browser.lime .file-upload{
+	background-color: #00FF00;
+	border-color: #00FF00;
+	color: #009300;
+}
+.file-browser.lime .file_name{
+	color: #009300;
+}
+
+
+
+.file-browser.brown{
+	border: 1px solid #A52A2A;
+	background: #fff1f1;
+}
+.file-browser.brown .file-upload{
+	background-color: #A52A2A;
+	border-color: #A52A2A;
+	color: #fff;
+}
+.file-browser.brown .file_name{
+	color: #A52A2A;
+}
