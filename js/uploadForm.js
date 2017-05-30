@@ -1,4 +1,4 @@
-function file_browser(file){
+function uploadFormBrowser(file){
     var label=$(file).parent('.file-browser');
     var file_name=$(label).children('.file_name');
     var files_count=$(file_name).children('.files_count');
