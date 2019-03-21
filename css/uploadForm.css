@@ -30,7 +30,9 @@ File uploader by Giorgi Lazashvili
 	color: #FFF;
 	display: inline-block;
 }
-
+.file-browser:hover .file-upload{
+	background-color: #0f9adb;
+}
 
 /* Additional colors */
 
@@ -43,6 +45,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #ff0000;
 	border-color: #ff0000;
 	color: #FFF;
+}
+.file-browser.red:hover .file-upload{
+	background-color: #da0101;
 }
 .file-browser.red .file_name{
 	color: #ff0000;
@@ -59,6 +64,9 @@ File uploader by Giorgi Lazashvili
 	border-color: #1ABC9C;
 	color: #FFF;
 }
+.file-browser.green:hover .file-upload{
+	background-color: #0ba587;
+}
 .file-browser.green .file_name{
 	color: #1ABC9C;
 }
@@ -72,6 +80,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #1934fe;
 	border-color: #1934fe;
 	color: #FFF;
+}
+.file-browser.blue:hover .file-upload{
+	background-color: #0922dc;
 }
 .file-browser.blue .file_name{
 	color: #1934fe;
@@ -87,6 +98,9 @@ File uploader by Giorgi Lazashvili
 	border-color: #ebfe19;
 	color: #cfaf00;
 }
+.file-browser.yellow:hover .file-upload{
+	background-color: #e3f51e;
+}
 .file-browser.yellow .file_name{
 	color: #cfaf00;
 }
@@ -100,6 +114,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #ff3c1f;
 	border-color: #ff3c1f;
 	color: #fff;
+}
+.file-browser.orange:hover .file-upload{
+	background-color: #f13317;
 }
 .file-browser.orange .file_name{
 	color: #ff3c1f;
@@ -116,6 +133,9 @@ File uploader by Giorgi Lazashvili
 	border-color: #800080;
 	color: #fff;
 }
+.file-browser.purple:hover .file-upload{
+	background-color: #6d016d;
+}
 .file-browser.purple .file_name{
 	color: #800080;
 }
@@ -130,6 +150,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #00FF00;
 	border-color: #00FF00;
 	color: #009300;
+}
+.file-browser.lime:hover .file-upload{
+	background-color: #02ef02;
 }
 .file-browser.lime .file_name{
 	color: #009300;
@@ -146,6 +169,9 @@ File uploader by Giorgi Lazashvili
 	border-color: #A52A2A;
 	color: #fff;
 }
+.file-browser.brown:hover .file-upload{
+	background-color: #961d1d;
+}
 .file-browser.brown .file_name{
 	color: #A52A2A;
 }
@@ -160,6 +186,9 @@ File uploader by Giorgi Lazashvili
 	border-color: #000000;
 	color: #fff;
 }
+.file-browser.black:hover .file-upload{
+	background-color: #292929;
+}
 .file-browser.black .file_name{
 	color: #000000;
 }
@@ -172,6 +201,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #222d32;
 	border-color: #222d32;
 	color: #fff;
+}
+.file-browser.black2:hover .file-upload{
+	background-color: #292929;
 }
 .file-browser.black2 .file_name{
 	color: #222d32;
@@ -186,6 +218,9 @@ File uploader by Giorgi Lazashvili
 	background-color: #646464;
 	border-color: #646464;
 	color: #fff;
+}
+.file-browser.gray:hover .file-upload{
+	background-color: #565555;
 }
 .file-browser.gray .file_name{
 	color: #646464;
