@@ -1,6 +1,6 @@
 /*
 
-File uploader by GL
+File uploader by Giorgi Lazashvili
 
 */
 /* Main styles */
@@ -149,3 +149,47 @@ File uploader by GL
 .file-browser.brown .file_name{
 	color: #A52A2A;
 }
+
+
+.file-browser.black{
+	border: 1px solid #000000;
+	background: #e2e2e2;
+}
+.file-browser.black .file-upload{
+	background-color: #000000;
+	border-color: #000000;
+	color: #fff;
+}
+.file-browser.black .file_name{
+	color: #000000;
+}
+
+.file-browser.black2{
+	border: 1px solid #222d32;
+	background: #e2e2e2;
+}
+.file-browser.black2 .file-upload{
+	background-color: #222d32;
+	border-color: #222d32;
+	color: #fff;
+}
+.file-browser.black2 .file_name{
+	color: #222d32;
+}
+
+
+.file-browser.gray{
+	border: 1px solid #646464;
+	background: #e2e2e2;
+}
+.file-browser.gray .file-upload{
+	background-color: #646464;
+	border-color: #646464;
+	color: #fff;
+}
+.file-browser.gray .file_name{
+	color: #646464;
+}
+
+
+

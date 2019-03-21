@@ -1,3 +1,8 @@
+/*
+File uploader by Giorgi Lazashvili
+
+*/
+
 function uploadFormBrowser(file){
     var label=$(file).parent('.file-browser');
     var file_name=$(label).children('.file_name');
