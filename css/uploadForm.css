@@ -30,6 +30,9 @@ File uploader by Giorgi Lazashvili
 	color: #FFF;
 	display: inline-block;
 }
+.file-browser .file{
+	display: none !important;
+}
 .file-browser:hover .file-upload{
 	background-color: #0f9adb;
 }
