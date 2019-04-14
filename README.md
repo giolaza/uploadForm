@@ -1,5 +1,5 @@
-# uploadFrom
-Beautiful upload form by GL with 6 colors
+# uploadForm
+Beautiful upload form by GL with 23 colors
 
 Requirements:
 jQuery and Bootstrap
@@ -17,6 +17,9 @@ orange,
 purple,
 lime,
 brown,
+black,
+black2,
+gray
 
 
 
